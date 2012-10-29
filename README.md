@@ -26,4 +26,4 @@ cd C:\xampp\htdocs
 git clone git://github.com/maxmukhin/SchoolTeaching.git
 
  - перейти по адресу:
-http://localhost/SchoolTeaching/
+[http://localhost/SchoolTeaching/](http://localhost/SchoolTeaching/)
