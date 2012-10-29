@@ -1,13 +1,22 @@
 /*
 */
 
+body {
+  width: 1000px;
+}
+
+h1 {
+  font-size: 25px;
+  text-align: center;
+}
+
 .description {
-  width: 600px;
+  width: 900px;
   margin: 30px 0px 20px 0px;
 }
 
-a.not-ready {
-  visibility: hidden;
+.not-ready {
+  visibility: hidden !important;
 }
 
 ul.links {
@@ -22,4 +31,25 @@ ul.links li {
   clear: both;
   width: 0px;
   height: 0px;
+}
+
+.footer-description {
+  margin-left: 80px;
+  margin-top: 100px;
+}
+
+.under-construction {
+  margin: 0px 0px 0px 60px;
+  padding: 20px 0px 20px 138px;
+  width: 400px;
+  background: transparent url(../images/under-construction.png) left top no-repeat;
+  min-height: 120px;
+  border: solid 1px #E0E0E0;
+}
+
+.correct-work,
+.incorrect-work
+{
+  font-weight: bold;
+  font-style: italic;
 }
