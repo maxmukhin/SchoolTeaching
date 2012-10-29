@@ -33,3 +33,12 @@ git clone git://github.com/maxmukhin/SchoolTeaching.git
  3.4) для обновления информации о SchoolTeaching повторите шаг 3.1 и после выполните команду:
 
 git pull
+
+
+
+
+
+
+Icons from: [VistaICO.com](http://www.vistaico.com)
+
+
