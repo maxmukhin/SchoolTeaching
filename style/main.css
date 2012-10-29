@@ -5,3 +5,17 @@ a.not-ready {
   visibility: hidden;
 }
 
+ul.links {
+  list-style: none;
+
+}
+
+ul.links li {
+  padding: 10px 0px 4px 0px;
+}
+
+.clearfix {
+  clear: both;
+  width: 0px;
+  height: 0px;
+}
