@@ -20,11 +20,11 @@ PS. по умолчанию xampp установится в каталог C:\xa
 
  3.1) перейти в каталог где будут находиться ваши web-проекты (C:\xampp\htdocs), команда
 
-cd C:\xampp\htdocs
+    cd C:\xampp\htdocs
 
  3.2) выполнить команду:
 
-git clone git://github.com/maxmukhin/SchoolTeaching.git
+    git clone git://github.com/maxmukhin/SchoolTeaching.git
 
  3.3) перейти по адресу:
 [http://localhost/SchoolTeaching/](http://localhost/SchoolTeaching/)
@@ -32,7 +32,7 @@ git clone git://github.com/maxmukhin/SchoolTeaching.git
 
  3.4) для обновления информации о SchoolTeaching повторите шаг 3.1 и после выполните команду:
 
-git pull
+    git pull
 
 
 
