@@ -1,5 +1,7 @@
 <?php
 
+const MY = 'AAAAaa';
+
 echo 'GLOBALS:<br />';
 var_dump($GLOBALS);
 
@@ -17,5 +19,7 @@ var_dump(__FILE__);
 
 echo '__LINE__:<br />';
 var_dump(__LINE__);
+
+var_dump(DIRECTORY_SEPARATOR);
 
 ?>
